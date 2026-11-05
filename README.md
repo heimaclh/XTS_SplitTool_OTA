@@ -4,8 +4,9 @@ XTS SplitTool 的官方更新源。这里只提供 OTA 清单和安装包，不�
 
 ## 最新版本
 
-- 版本：`1.5.2`
-- 安装包：[XTS_SplitTool_Setup_v1.5.2.exe](https://github.com/heimaclh/XTS_SplitTool_OTA/releases/download/v1.5.2/XTS_SplitTool_Setup_v1.5.2.exe)
+- 版本：`1.5.5`
+- 发布日期：`2026-11-05`
+- 安装包：[下载 XTS_SplitTool_Setup_v1.5.5.exe](https://github.com/heimaclh/XTS_SplitTool_OTA/releases/download/v1.5.5/XTS_SplitTool_Setup_v1.5.5.exe)
 - 更新说明：见 [CHANGELOG.md](CHANGELOG.md)
 
 ## 客户端更新源
