@@ -2,6 +2,6 @@
   "version": "1.5.5",
   "url": "https://github.com/heimaclh/XTS_SplitTool_OTA/releases/download/v1.5.5/XTS_SplitTool_Setup_v1.5.5.exe",
   "sha256": "e150184a44009cce5803ee2a3b43573e146a0621b950853b3a4b8694d2595f60",
-  "notes": "XTS SplitTool v1.5.5",
+  "notes": "1.5.5：OTA 弹窗改用全屏 Portal 渲染，修复侧边栏挤压；恢复版本对比，旧更新源会明确提示；优化 OTA 视觉与下载进度。",
   "mandatory": false
 }
