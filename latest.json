@@ -1,0 +1,7 @@
+{
+  "version": "1.5.2",
+  "url": "https://github.com/heimaclh/XTS_SplitTool_OTA/releases/download/v1.5.2/XTS_SplitTool_Setup_v1.5.2.exe",
+  "sha256": "5a26921eb1a505830e22c9ac9215bb7eb81bee5190ba55f7e73412101e8ef58b",
+  "notes": "1.5.2：启动条件检测、结果根自动补全、xdevice 配置检测。",
+  "mandatory": false
+}
