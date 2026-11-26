@@ -1,7 +1,7 @@
 {
-  "version": "1.5.5",
-  "url": "https://github.com/heimaclh/XTS_SplitTool_OTA/releases/download/v1.5.5/XTS_SplitTool_Setup_v1.5.5.exe",
-  "sha256": "e150184a44009cce5803ee2a3b43573e146a0621b950853b3a4b8694d2595f60",
-  "notes": "1.5.5：OTA 弹窗改用全屏 Portal 渲染，修复侧边栏挤压；恢复版本对比，旧更新源会明确提示；优化 OTA 视觉与下载进度。",
+  "version": "1.5.6",
+  "url": "https://github.com/heimaclh/XTS_SplitTool_OTA/releases/download/v1.5.6/XTS_SplitTool_Setup_v1.5.6.exe",
+  "sha256": "0e89479649cc2e1c0d3078df607a2bfb228dfe83e6ac480c0e318c7d22a1b11c",
+  "notes": "1.5.6：修复 collect 自动识别 xdevice 根目录；无报告时提前明确报错；merge 在缺少 Block/Unavailable 目录时不再失败，并可基于全量底稿生成总报告；修复 Windows 中文日志乱码。",
   "mandatory": false
 }
